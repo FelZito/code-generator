@@ -6,7 +6,7 @@
 
 ### Documentação PyQRCode's: https://pythonhosted.org/PyQRCode/
 ### Documentação PyPNG: https://pypng.readthedocs.io/en/latest/
-#
+
 ## Instalação das bibliotecas usando pip:
-- PyQRCode's: pip install pyqrcode
-- PyPNG: pip install pypng
+- PyQRCode's: __pip install pyqrcode__
+- PyPNG: __pip install pypng__
